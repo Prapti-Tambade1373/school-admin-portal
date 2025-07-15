@@ -1,0 +1,10 @@
+.card {
+  background-color: gray;
+  color: white;
+}
+
+.card input,
+.card select {
+  background-color: #333;
+  color: white;
+}
