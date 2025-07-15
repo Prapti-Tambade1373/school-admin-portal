@@ -2,7 +2,7 @@
 🎓 School Management System — Spring Boot + React.js
 A full-stack School Management System built using Spring Boot (JPA, REST API), MySQL, and React.js with Bootstrap for styling. The system provides login and registration for Principal, Teacher, and Employee, enabling them to manage student and teacher records. No Spring Security is used.
 
-🔧 Technologies Used 
+🔧 Technologies Used  
 Java
 
 Spring Boot
